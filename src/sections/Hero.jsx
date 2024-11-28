@@ -68,6 +68,8 @@ export default function Hero() {
             />
             
             </HeroCamera>
+
+            <OrbitControls enablePan />
             
 
 
