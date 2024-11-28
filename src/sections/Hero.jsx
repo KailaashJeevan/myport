@@ -74,7 +74,7 @@ export default function Hero() {
 
             <group>
               <Target position={size.targetPosition}  />
-              <ReactLogo position={size.reactLogoPosition} scale={size.reactLogoSize}/>
+              {/* <ReactLogo position={size.reactLogoPosition} scale={size.reactLogoSize}/> */}
               <Cube position={ size.cubePosition}/>
               <Rings position={size.ringPosition}/>
             </group>
