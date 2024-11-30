@@ -69,7 +69,7 @@ export default function Hero() {
             
             </HeroCamera>
 
-            
+            <OrbitControls enablePan enableDamping enableRotate enableZoom />
 
 
             <group>
